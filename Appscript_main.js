@@ -5,7 +5,7 @@ const CONFIG = {
   companyName: "بوستجيتال", // Company name in Arabic
   companyNameEnglish: "boostigital", // Company name in English
   phoneNumber: "+96178738309", // Your phone number
-  pagespeedApiKey: "AIzaSyCFeM-Yt6CJT2GFJVyhi6QwjJjnHb5qu20" // Add your Google PageSpeed API key here
+  pagespeedApiKey: "" // Add your Google PageSpeed API key here
 };
 
 // GLOBAL CACHE AND QUOTA TRACKER (per execution)
